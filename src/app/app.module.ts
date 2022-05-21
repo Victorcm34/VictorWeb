@@ -8,7 +8,7 @@ import { MainComponent } from './src/main/main.component';
 import { ExperienceComponent } from './src/main/experience/experience.component';
 import { AboutmeComponent } from './src/main/aboutme/aboutme.component';
 import { HttpClientModule } from '@angular/common/http';
-import { TerminalComponent } from './src/main/terminal/terminal.component';
+import { HomeComponent } from './src/main/home/home.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +17,7 @@ import { TerminalComponent } from './src/main/terminal/terminal.component';
     MainComponent,
     ExperienceComponent,
     AboutmeComponent,
-    TerminalComponent
+    HomeComponent
   ],
   imports: [
     BrowserModule,

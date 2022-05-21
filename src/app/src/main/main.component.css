@@ -1,10 +1,5 @@
-.terminal, .router {
-  width: 50%;
-  padding-left: 10%;
-}
-
-.router{
-  border-right: 1px solid black;
+.router {
+  justify-content: center;
 }
 
 .main {
